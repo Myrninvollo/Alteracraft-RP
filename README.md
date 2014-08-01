@@ -1,0 +1,4 @@
+Alteracraft-RP
+==============
+
+Resource pack
